@@ -5,7 +5,7 @@
 This dictionary is compiled from the following sources:
 
 * Ergane, from https://www.esperanto-panorama.net/vortaro/eoen.htm
-* PDIC, from http://www.denisowski.org/Esperanto/ESPDIC/espdic_readme.html
+* ESPDIC, from http://www.denisowski.org/Esperanto/ESPDIC/espdic_readme.html
 * DictionaryForMIDS Eo-Eng, from https://sourceforge.net/projects/dictionarymid/files/
 
 The methodology was as follows:
