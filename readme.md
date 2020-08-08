@@ -19,7 +19,7 @@ The dictionary was then created using apeyser's tab2opf.py from https://github.c
 
 ## Download
 
-The latest version of the .mobi file can be found [here](http://coljac.space/Combined_Esperanto_English.mobi), or compiled according to the above.
+The latest version of the .mobi file can be found [here](https://github.com/coljac/kindle_eo_eng/files/5044520/Esperanto-English.zip), or compiled according to the above.
 
 ## Installation
 
