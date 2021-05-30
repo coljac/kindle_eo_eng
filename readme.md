@@ -13,16 +13,16 @@ The methodology was as follows:
 * Combine the entries of the above dictionaries into a superset of Esperanto words.
 * Discard duplicate definitions.
 * Concatenate alternate definitions where more than one remain.
-* Create duplicate entries for inflected versions of nouns, verbs and adjectives (e.g. pomojn for pomo, kuŝus for kuŝi)
+* Add inflected versions of the words to the resulting dictionary (e.g. pomojn for pomo, kuŝus for kuŝi).
 
 The dictionary was then created using apeyser's tab2opf.py from https://github.com/apeyser/tab2opf and Amazon's kindlegen tool.
 
 ## Download
 
-The latest version of the .mobi file can be found [here](https://github.com/coljac/kindle_eo_eng/files/5044520/Esperanto-English.zip), or compiled according to the above.
+The latest version (ver 2.0) of the .mobi file can be found [here](https://github.com/coljac/kindle_eo_eng/files/6566066/Esperanto_english.zip), or compiled according to the above.
 
 ## Installation
 
 Email it to your kindle, or copy to Kindle in the Documents/dictionaries folder. 
 
-I haven't experimented properly with the proper auto-detection of the kindle language, but when reading an Esperanto document, it will at least prompt you to select a dictionary, and this will show up in the menu.
+The metadata on the dictionary should now have the correct language. If there are any problems, the dictionary can be selected manually.
