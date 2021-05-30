@@ -15,7 +15,7 @@ The methodology was as follows:
 * Concatenate alternate definitions where more than one remain.
 * Add inflected versions of the words to the resulting dictionary (e.g. pomojn for pomo, kuŝus for kuŝi).
 
-The dictionary was then created using apeyser's tab2opf.py from https://github.com/apeyser/tab2opf and Amazon's kindlegen tool.
+The dictionary was then created using apeyser's tab2opf.py from https://github.com/apeyser/tab2opf and Amazon's kindlegen tool. (Note: The kindlegen tool has been removed, and replaced with Kindle Previewer, which I have not tested.)
 
 ## Download
 
