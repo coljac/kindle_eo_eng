@@ -19,7 +19,7 @@ The dictionary was then created using apeyser's tab2opf.py from https://github.c
 
 ## Download
 
-The latest version (ver 2.0) of the .mobi file can be found [here](https://github.com/coljac/kindle_eo_eng/releases/tag/ver2_0), or compiled according to the above.
+The latest version (ver 2.0) of the .mobi file can be found [here](https://github.com/coljac/kindle_eo_eng/releases/tag/ver2_0_1), or compiled according to the above.
 
 ## Installation
 
