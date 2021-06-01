@@ -9,11 +9,16 @@ BEGIN {
     print
 }
 
+/DictionaryInLanguage/ {
+    $0 = "      <DictionaryInLanguage>eo</DictionaryInLanguage>  "
+}
+
 /<\/dc-metadata>/ {
     inheader = 0
-		print "    <dc:Identifier id=\"uid\">Esperanto-English</dc:Identifier>"
+		print "    <dc:Identifier id=\"uid\">esperanto_english</dc:Identifier>"
+		print "    <!-- Title of the document -->"
 		print "    <dc:Title><h2>Esperanto to English</h2></dc:Title>"
-        print "    <dc:Language>Esperanto</dc:Language>"
+        print "    <dc:Language>EN</dc:Language>"
 }
 
 {
